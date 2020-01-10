@@ -1,0 +1,9 @@
+C:\Users\filip\source\repos\SKYNET\SKYNET\bin\Debug\SKYNET.exe.config
+C:\Users\filip\source\repos\SKYNET\SKYNET\bin\Debug\SKYNET.exe
+C:\Users\filip\source\repos\SKYNET\SKYNET\bin\Debug\SKYNET.pdb
+C:\Users\filip\source\repos\SKYNET\SKYNET\obj\Debug\SKYNET.csprojAssemblyReference.cache
+C:\Users\filip\source\repos\SKYNET\SKYNET\obj\Debug\SKYNET.Properties.Resources.resources
+C:\Users\filip\source\repos\SKYNET\SKYNET\obj\Debug\SKYNET.csproj.GenerateResource.cache
+C:\Users\filip\source\repos\SKYNET\SKYNET\obj\Debug\SKYNET.exe
+C:\Users\filip\source\repos\SKYNET\SKYNET\obj\Debug\SKYNET.pdb
+C:\Users\filip\source\repos\SKYNET\SKYNET\obj\Debug\SKYNET.Form1.resources
